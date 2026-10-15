@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.0 (354)</title>
+            <pubDate>Thu, 15 Oct 2026 20:08:50 GMT</pubDate>
+            <sparkle:version>354</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Echo 3.0 (build 354)</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.0-354/Echo-3.0-354.zip" type="application/octet-stream" sparkle:edSignature="MRhwOen7RvkEZPbKZ3CPhSYd5xGOa1GgZVktQ1FrxvfpqTahmMabZl2CPnbjF6yTiqtZNz4pCZuFq9epl5arAA==" length="4443424"/>
+        </item>
+        <item>
             <title>Version 3.0 (352)</title>
             <pubDate>Thu, 15 Oct 2026 19:40:03 GMT</pubDate>
             <sparkle:version>352</sparkle:version>
