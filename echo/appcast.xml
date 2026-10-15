@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Echo</title>
+        <description>Updates for Echo</description>
+        <language>en</language>
+        <!-- newest release first; added by make-release.sh -->
+        <item>
+            <title>Version 3.0 (352)</title>
+            <pubDate>Thu, 15 Oct 2026 19:40:03 GMT</pubDate>
+            <sparkle:version>352</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>First release with automatic updates.<br/><br/>- Compact player, AppKit menu bar with a native menu<br/>- ★ favourites sync with the Music app, including background sync<br/>- Crossfade and EQ over AirPlay (experimental), memory fix for AirPlay streaming<br/>- Separate Mac and AirPlay volumes, playlist-scoped shuffle</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.0-352/Echo-3.0-352.zip" type="application/octet-stream" sparkle:edSignature="5CMNpiTBB4nzIn2tE1mjdQckrxc6bufylkqaOzsQjt38zwgWjGXWTg9OMXGACsAONRd/0vS7fydHsv7fG00yCA==" length="4443424"/>
+        </item>
+    </channel>
+</rss>
