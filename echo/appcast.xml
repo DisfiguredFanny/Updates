@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.0 (357)</title>
+            <pubDate>Thu, 15 Oct 2026 22:00:52 GMT</pubDate>
+            <sparkle:version>357</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Fixes Echo 3.0 (352) not starting: it couldn&#x27;t load its update framework.<br/><br/>If you installed 352 and Echo won&#x27;t open, download this version from the Updates page.</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.0-357/Echo-3.0-357.zip" type="application/octet-stream" sparkle:edSignature="/Vc9InG8WO0yA2gjhYqRBWxU6gY+CgFnj18hA/4P/ak89RWqZgVGfRr3yppCwlllvSmCAHK3Ijn+KwWlaPZvDQ==" length="4443487"/>
+        </item>
+        <item>
             <title>Version 3.0 (354)</title>
             <pubDate>Thu, 15 Oct 2026 20:08:50 GMT</pubDate>
             <sparkle:version>354</sparkle:version>
