@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.0 (408)</title>
+            <pubDate>Fri, 16 Oct 2026 23:48:54 GMT</pubDate>
+            <sparkle:version>408</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Welcome window at first launch explains and asks for Echo&#x27;s permissions (Music library, measuring other apps&#x27; loudness, notifications)<br/>Sleep timer: Song Ends now reliably pauses at the end of the song, also over AirPlay and when set close to the end<br/>Lyrics service defaults to Auto, Adaptive Blur is off by default for new installs<br/>Requires macOS 15 Sequoia or later</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.0-408/Echo-3.0-408.zip" type="application/octet-stream" sparkle:edSignature="7SiCurxLYv+aXJgZt0+XPoPwhXVqDTuXVZK6r1NTPYLJaoK5AYbELdc0Rpxx1FctMv86MdOtziixq+t6HEU0DQ==" length="4685186"/>
+        </item>
+        <item>
             <title>Version 3.0 (397)</title>
             <pubDate>Fri, 16 Oct 2026 20:09:46 GMT</pubDate>
             <sparkle:version>397</sparkle:version>
