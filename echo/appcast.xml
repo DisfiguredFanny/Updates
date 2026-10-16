@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.0 (362)</title>
+            <pubDate>Fri, 16 Oct 2026 08:27:28 GMT</pubDate>
+            <sparkle:version>362</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Settings and library improvements.<br/><br/>- Check for Updates toggle with Daily / Weekly / Monthly in Settings<br/>- Sync ★ setting with a short explanation<br/>- Click the song count for Resync Library and Switch Media Source</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.0-362/Echo-3.0-362.zip" type="application/octet-stream" sparkle:edSignature="ledM7PwFJuYnuTda3lgLP/IiyhrcVEa2uQi3CApBVdHIR0omL80GSLfm1syWvUYmz9Wn7lnXFRby9BvGGJiNAg==" length="4477769"/>
+        </item>
+        <item>
             <title>Version 3.0 (357)</title>
             <pubDate>Thu, 15 Oct 2026 22:00:52 GMT</pubDate>
             <sparkle:version>357</sparkle:version>
