@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.0 (392)</title>
+            <pubDate>Fri, 16 Oct 2026 18:46:15 GMT</pubDate>
+            <sparkle:version>392</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>New in this version:<br/><br/>- Output menu: play Echo on Bluetooth, USB or HDMI speakers (just Echo, not the whole Mac), or pick AirPlay, all from one button<br/>- When another app plays (a video, a call): lower Echo&#x27;s volume, pause it, or do nothing (Settings › Playback)<br/>- Fancier lyrics: bigger text, the active line pops and stays in the middle<br/>- Library: Jump to Song setting, star / heart toggle on hover, one source at a time<br/>- Wider Settings, compact player closes the library, floating player starts with the library open<br/>- Requires macOS 15 Sequoia or later</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.0-392/Echo-3.0-392.zip" type="application/octet-stream" sparkle:edSignature="Ld86PBZGVSjTnWpgNJG3/AosJIyQbTCySPBp5sGn77pRukQ9RET22TumSChU7bmb5tFgL3v8qeqzoOkKImhRCA==" length="4595666"/>
+        </item>
+        <item>
             <title>Version 3.0 (362)</title>
             <pubDate>Fri, 16 Oct 2026 08:27:28 GMT</pubDate>
             <sparkle:version>362</sparkle:version>
