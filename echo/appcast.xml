@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.0 (427)</title>
+            <pubDate>Sat, 17 Oct 2026 16:34:09 GMT</pubDate>
+            <sparkle:version>427</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Scrolling a big library now uses far less memory and no longer floods the lyrics service with requests<br/>Dragging the player out of the menu bar no longer sticks to the top edge mid-drag (it snaps when you let go)<br/>Requires macOS 15 Sequoia or later</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.0-427/Echo-3.0-427.zip" type="application/octet-stream" sparkle:edSignature="KjReBVau518DY9VIetuPuwKrf2QMyEo337NQLX9/LRYB0lVZap4DZBRdGjb7DNOG0IQ57VEIpY5CXxG4XGxmDA==" length="4730682"/>
+        </item>
+        <item>
             <title>Version 3.0 (424)</title>
             <pubDate>Sat, 17 Oct 2026 15:45:38 GMT</pubDate>
             <sparkle:version>424</sparkle:version>
