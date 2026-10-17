@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.0 (410)</title>
+            <pubDate>Sat, 17 Oct 2026 00:09:18 GMT</pubDate>
+            <sparkle:version>410</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Fixed: Echo&#x27;s volume could jump or wobble when another app (or a system sound, or an empty browser window) opened audio without really playing<br/>Lowering for other apps now only reacts to real sound<br/>Requires macOS 15 Sequoia or later</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.0-410/Echo-3.0-410.zip" type="application/octet-stream" sparkle:edSignature="p4sCHpazOVlInFnSJJqfvD+mhazPe+R1kBBVeScJDwAmmHz5ivVIURHGxF5L4msH0MzyLc4Itx+Kh13szEvnAQ==" length="4685446"/>
+        </item>
+        <item>
             <title>Version 3.0 (408)</title>
             <pubDate>Fri, 16 Oct 2026 23:48:54 GMT</pubDate>
             <sparkle:version>408</sparkle:version>
