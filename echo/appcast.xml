@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.0 (424)</title>
+            <pubDate>Sat, 17 Oct 2026 15:45:38 GMT</pubDate>
+            <sparkle:version>424</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Dark Mode backgrounds: Graphite, Black, Midnight, Forest, Plum, Espresso or Wine, with a Darkness slider<br/>Light Mode backgrounds: Ivory, White, Stone, Sand, Sage, Mist or Blush, with a Lightness slider<br/>Much lighter on the Mac: almost no CPU while paused (it kept redrawing while AirPlay was connected), and less while streaming to AirPlay<br/>Fixed: a check that ran twice a second while playing could make Echo stall<br/>Requires macOS 15 Sequoia or later</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.0-424/Echo-3.0-424.zip" type="application/octet-stream" sparkle:edSignature="dUX4PK5YLqteroROOknisXtABOtqGfimXh0XOcN+IPmn+jGR5NTbRWzFcOnY+jDa0dxB6TyOAFdVf5vrlgLVBQ==" length="4726075"/>
+        </item>
+        <item>
             <title>Version 3.0 (410)</title>
             <pubDate>Sat, 17 Oct 2026 00:09:18 GMT</pubDate>
             <sparkle:version>410</sparkle:version>
