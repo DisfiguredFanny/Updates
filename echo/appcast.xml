@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.0 (535)</title>
+            <pubDate>Sun, 18 Oct 2026 21:32:54 GMT</pubDate>
+            <sparkle:version>535</sparkle:version>
+            <sparkle:shortVersionString>3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>What&#x27;s new in this version of Echo<br/><br/>LIBRARY<br/>• Click a song or episode to select it, and double-click to play it.<br/>• Subscribed podcasts now appear in the library&#x27;s filter menu. Pick a show to see only its episodes.<br/>• Right-click an episode to Mark as Played or Mark as Unplayed.<br/><br/>FIND PODCASTS<br/>• Search results now show up to about 100 shows (it was 40).<br/>• New sort menu: Relevance, Latest Episode, Most Episodes or Name. There&#x27;s also an option to hide shows with no new episode in a year.<br/>• Each show shows how recently it published a new episode.<br/>• Your 5 most recent searches appear when the search field is empty. Click one to search again.<br/>• Subscribe is now a compact icon: + to subscribe, ✓ when subscribed.<br/>• Episodes without their own artwork now show the show&#x27;s cover.<br/><br/>SMOOTHER DRAWERS<br/>• Opening and closing Settings, Lyrics / Transcript, Find Podcasts and the library is now smooth. The player no longer shimmers or jitters while a drawer slides out.<br/>• Switching between drawers slides the new one in from the side of its button.<br/>• The header buttons respond with a small bounce when clicked.<br/><br/>FIXES<br/>• Podcast episodes keep their show&#x27;s name while playing, instead of switching to the host&#x27;s name.<br/>• Fixed a crash when switching between music and podcast libraries.<br/>• Background transcription no longer gets stuck repeating an episode that has no speech.<br/>• Subscription episodes whose download was interrupted (for example by quitting Echo) are now downloaded again at the next check.<br/><br/>⚠️ Echo is signed ad hoc, so macOS treats every update as a new app: after updating, Echo&#x27;s welcome window asks again for its permissions (Music library, System Audio Recording, notifications). Just allow them once more.</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.0-535/Echo-3.0-535.zip" type="application/octet-stream" sparkle:edSignature="anuUqWr+VAjV+MH3CE7WiOJU8Eir40/Rh9PwnITVYdmmnNa/pHDJImPXG3aVm6d1z0rdMtidvDoRTV0udafxAw==" length="5806701"/>
+        </item>
+        <item>
             <title>Version 3.0 (498)</title>
             <pubDate>Sun, 18 Oct 2026 12:24:03 GMT</pubDate>
             <sparkle:version>498</sparkle:version>
