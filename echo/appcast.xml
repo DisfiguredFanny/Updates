@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.2 (615)</title>
+            <pubDate>Wed, 21 Oct 2026 10:01:09 GMT</pubDate>
+            <sparkle:version>615</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Change Cover: right-click the cover art to pick the album&#x27;s or podcast&#x27;s cover from up to 200 iTunes Store results; used everywhere in Echo, with Use Original to go back.<br/>Show Echo shortcut: ⌥⌘E brings Echo to the front from any app and hands focus back when pressed again; change it in Settings › System (checked against macOS&#x27;s own shortcuts).<br/>New visualiser styles: LED Spectrum (segmented rainbow columns with peak blocks and a reflection) and Horizon Glow (glowing beams over a horizon with a green reflection and sparkles). Ripple Bloom, Bouncing Dots and Sunburst were removed.<br/>Album pages show the year and number of discs, open at the first song, and ⌘A opens the playing song&#x27;s album page.<br/>Podcasts grid: right-click a show to Unsubscribe or Delete All Episodes.<br/>⌘F toggles the library. The menu bar player is centred under the icon and floats a little below the menu bar; the permissions window drops out of the icon.<br/>Fixes: covers grid no longer squeezed by the ★ status line, visualiser cycle reaches every style.<br/><br/>⚠️ Echo is signed ad hoc, so macOS treats every update as a new app: after updating, Echo&#x27;s welcome window asks again for its permissions (Music library, System Audio Recording, notifications). Just allow them once more.</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.2-615/Echo-3.2-615.zip" type="application/octet-stream" sparkle:edSignature="4uKV3dpEdX/8MVYfdPB7IaeAdqLgNSrTMVqz9DwpAERBfAe6juK97w2AzLbtcfiTpjNcQOjjQ7JeGlXGReLQDA==" length="6548565"/>
+        </item>
+        <item>
             <title>Version 3.2 (590)</title>
             <pubDate>Tue, 20 Oct 2026 16:00:09 GMT</pubDate>
             <sparkle:version>590</sparkle:version>
