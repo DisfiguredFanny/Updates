@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.2 (657)</title>
+            <pubDate>Thu, 22 Oct 2026 18:23:34 GMT</pubDate>
+            <sparkle:version>657</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Big visualiser: ⤢ on the visualiser opens a resizable window or full screen, with song info and a control pill. Seven MilkDrop-style visualisers (Tunnel, Plasma, Kaleidoscope, Starfield, Inferno, Vortex, Nebula), also in the player. Punchier, beat-driven visualiser levels using a real FFT. Volume is a hover button left of shuffle, and output sits right of repeat. Now runs on macOS 14.2 Sonoma and later. Plus fixes.<br/><br/>⚠️ Echo is signed ad hoc, so macOS treats every update as a new app: after updating, Echo&#x27;s welcome window asks again for its permissions (Music library, System Audio Recording, notifications). Just allow them once more.</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.2-657/Echo-3.2-657.zip" type="application/octet-stream" sparkle:edSignature="eGPM93WX0QcIVtP66FlnswbafG1udmohBjCiySElI2tTbubu19USFHQO5HE4aY4UqoSEomtuq6W9je4zAr8zBg==" length="6824011"/>
+        </item>
+        <item>
             <title>Version 3.2 (615)</title>
             <pubDate>Wed, 21 Oct 2026 10:01:09 GMT</pubDate>
             <sparkle:version>615</sparkle:version>
