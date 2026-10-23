@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.2 (671)</title>
+            <pubDate>Fri, 23 Oct 2026 06:40:50 GMT</pubDate>
+            <sparkle:version>671</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Big mode for podcasts: show the episode&#x27;s transcript beside a speech visualiser (💬 in the control pill). The control pill now has a progress bar you can click or drag. The visualiser carries over into big mode, and big mode&#x27;s controls hide on their own after it opens. Fixed: switching library source no longer loses a podcast episode&#x27;s saved position; no more black corners in Vortex; the volume button is sharp in full screen.<br/><br/>⚠️ Echo is signed ad hoc, so macOS treats every update as a new app: after updating, Echo&#x27;s welcome window asks again for its permissions (Music library, System Audio Recording, notifications). Just allow them once more.</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.2-671/Echo-3.2-671.zip" type="application/octet-stream" sparkle:edSignature="sL2AFWzEzJo4RlUv9N+sUh0CBdKeFpC4UBrsEE/kopGjUfIaVEF5kgIysfocXF7UHrClFmUent32JzqSmq3WDg==" length="6936019"/>
+        </item>
+        <item>
             <title>Version 3.2 (657)</title>
             <pubDate>Thu, 22 Oct 2026 18:23:34 GMT</pubDate>
             <sparkle:version>657</sparkle:version>
