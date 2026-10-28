@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.2 (919)</title>
+            <pubDate>Wed, 28 Oct 2026 18:38:20 GMT</pubDate>
+            <sparkle:version>919</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Library window<br/>• Library mode is a proper Dock app with normal window controls; the red button turns it into the classic floater.<br/>• Bands tab: band pages with photo and Wikipedia text, their albums and their songs on compilations; two-finger swipes back and forward.<br/>• A–Z letter bar and sections; albums show disc headings.<br/>• Every list is native and smooth; panes slide in and the covers glide to make room.<br/>• The pill keeps one width and shows the song over a full-width progress line.<br/>• Album pages: Play and Shuffle; double-click a song to play it, then the rest of the album or random songs with shuffle on.<br/>• Up Next queue, equalizer and sleep timer panes; recent searches; Change Cover for albums, playlists and Loved.<br/><br/>Podcasts<br/>• New tabs: Shows (grouped by topic or all), Episodes (with a Progress column), Loved and Discovery.<br/>• Discovery: search Apple&#x27;s directory for shows and episodes, subscribe with +, show pages with every episode to download, download settings behind the gear.<br/>• Show pages: description, Subscribed badge, release dates and listening-progress bars; Transcribing / Waiting to transcribe shown on each episode.<br/><br/>Fixes<br/>• Episode lengths corrected once played; long lengths fit; bitrate shown for all MP3s; queued songs crossfade in correctly over AirPlay; search clears when switching tabs.<br/><br/>⚠️ Echo is signed ad hoc, so macOS treats every update as a new app: after updating, Echo&#x27;s welcome window asks again for its permissions (Music library, System Audio Recording, notifications). Just allow them once more.</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.2-919/Echo-3.2-919.zip" type="application/octet-stream" sparkle:edSignature="rGZT0X/5EiQ+K0k18+bYwWKYQI5012CGQNpmc2Te7peCywuxn4eYElqaxA3ebe3bp79JeHED41Xu9Vb3qImrAQ==" length="9600569"/>
+        </item>
+        <item>
             <title>Version 3.2 (671)</title>
             <pubDate>Fri, 23 Oct 2026 06:40:50 GMT</pubDate>
             <sparkle:version>671</sparkle:version>
