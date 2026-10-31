@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.2 (946)</title>
+            <pubDate>Sat, 31 Oct 2026 07:35:52 GMT</pubDate>
+            <sparkle:version>946</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Test build: added speed switch to podcasts and word by word highlight in transcripts. Some additional fixes, but nothing special<br/><br/>⚠️ Echo is signed ad hoc, so macOS treats every update as a new app: after updating, Echo&#x27;s welcome window asks again for its permissions (Music library, System Audio Recording, notifications). Just allow them once more.</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.2-946/Echo-3.2-946.zip" type="application/octet-stream" sparkle:edSignature="ST3IeP3pWb0XQcbAFI6sFLFiXrSW7Lq8Outl9JvRWlC+p94X95Dpz474HDFSgrvTLjYon5YDGMqOy+WHrSATBA==" length="9768364"/>
+        </item>
+        <item>
             <title>Version 3.2 (924)</title>
             <pubDate>Fri, 30 Oct 2026 14:16:59 GMT</pubDate>
             <sparkle:version>924</sparkle:version>
