@@ -6,6 +6,15 @@
         <language>en</language>
         <!-- newest release first; added by make-release.sh -->
         <item>
+            <title>Version 3.2 (1087)</title>
+            <pubDate>Mon, 02 Nov 2026 21:48:58 GMT</pubDate>
+            <sparkle:version>1087</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <description><![CDATA[<p>Podcast chapters using on-device models, very basic ad detection and skiping using transcription for regex matching, cover art grid size slider and now you can also set separate settings for each show<br/><br/>⚠️ Echo is signed ad hoc, so macOS treats every update as a new app: after updating, Echo&#x27;s welcome window asks again for its permissions (Music library, System Audio Recording, notifications). Just allow them once more.</p>]]></description>
+            <enclosure url="https://github.com/DisfiguredFanny/Updates/releases/download/echo-3.2-1087/Echo-3.2-1087.zip" type="application/octet-stream" sparkle:edSignature="qM4gU2lt4UL3wawO9uLT+qWs+kc1hhT1gvEnesjPCT89p4I9U3fEtHs6V6dVXR7DJuMYGNnFf4tAScb54Xs7Cw==" length="11295726"/>
+        </item>
+        <item>
             <title>Version 3.2 (995)</title>
             <pubDate>Sun, 01 Nov 2026 17:16:59 GMT</pubDate>
             <sparkle:version>995</sparkle:version>
